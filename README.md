@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My Stack
+- Machine Learning
+- Data Science
+- MLOps
+- Python
+- Pyspark
+- SQL
+- AWS
+- Git/Github
+- MLflow
+- Databricks
+- Redshift
+- DBT
+- Airflow
+- S3
+- EMR
+- Power BI
+- Metabase
+- Google Data Studio
+- Tableau
+
+<!-- 📫 Find me
+Gmail   LinkedIn   Instagram  -->
